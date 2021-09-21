@@ -1,6 +1,8 @@
 # Face-emotion-recognition
 Dataset: FER-2013
 https://www.kaggle.com/msambare/fer2013
+### Train accuracy: 82.36%
+### Validation accuracy: 64.74%
 Graphs:
 ## Accuracy:
 
